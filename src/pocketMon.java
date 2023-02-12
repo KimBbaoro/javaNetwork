@@ -128,7 +128,7 @@ public class pocketMon {
                 else {
                     System.out.println("메뉴에서 골라 주세요");
                 }
-
+//임시로 만듥
                 p.info();
 
                 System.out.print("공격 번호 선택");
